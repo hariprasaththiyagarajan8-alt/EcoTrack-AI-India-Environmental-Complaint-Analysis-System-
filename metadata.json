@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack AI – India Environmental Complaint Analysis System",
+  "description": "Intelligent India-focused environmental complaint analysis system using NLP, ML classification, Indian geographic entity extraction, and comprehensive administrator dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
